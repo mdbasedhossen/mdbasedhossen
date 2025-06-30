@@ -25,7 +25,6 @@
 
 ### 📫 **Connect with Me**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mdbasedhossen)
-- 📧 Email: md.based.hossen01@gmail.com
 - 🌍 Portfolio: Developing.....
 
 ---
